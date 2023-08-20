@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/pintoreactproyectofinal/static/css/main.1f28d9ea.css",
+    "main.js": "/pintoreactproyectofinal/static/js/main.bde94b2a.js",
+    "static/media/Magnolia.jpg": "/pintoreactproyectofinal/static/media/Magnolia.5c542e027ae1728f5965.jpg",
+    "index.html": "/pintoreactproyectofinal/index.html",
+    "main.1f28d9ea.css.map": "/pintoreactproyectofinal/static/css/main.1f28d9ea.css.map",
+    "main.bde94b2a.js.map": "/pintoreactproyectofinal/static/js/main.bde94b2a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f28d9ea.css",
+    "static/js/main.bde94b2a.js"
+  ]
+}
