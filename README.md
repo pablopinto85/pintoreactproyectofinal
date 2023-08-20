@@ -1,6 +1,7 @@
 Vista Previa del sitio en ejecucion
 
-<image src="[/images/picture.jpg](https://i.ibb.co/k9Mxjgh/muestra-de-pagina-web.gif)" alt="demo">
+<image src="https://ibb.co/album/G3LRw6)" alt="Demo">
+
 
 
 Entrega final de Proyecto React
