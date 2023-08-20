@@ -1,6 +1,6 @@
 Vista Previa del sitio en ejecucion
 
-<image src="https://ibb.co/album/G3LRw6)" alt="Demo">
+<image src="https://ibb.co/album/G3LRw6" alt="Demo">
 
 
 
